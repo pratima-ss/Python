@@ -1,2 +1,2 @@
 # Python
-Repository for leanring projects
+Repository for learning projects
